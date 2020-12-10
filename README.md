@@ -4,6 +4,6 @@
 <div align=center><img src="https://img.shields.io/badge/Language-Java-yellow.svg">&nbsp;&nbsp;<img src="https://img.shields.io/badge/JDK-1.8-green.svg">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Maven-3.6-silver.svg">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Author-Am0xil-blue.svg"></div><br/>
 
 ## 前言
-<font color="blue" face="微软雅黑">Zero(零度) Blog，名称灵感来自零度可乐，一款正在完善的个人博客系统</font><br/>
+<font color="blue" face="微软雅黑">Zero(零度) Blog，名称灵感来自零度可口可乐，加油，可乐人</font><br/>
 
 ## 项目介绍
