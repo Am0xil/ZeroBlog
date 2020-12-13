@@ -1,11 +1,16 @@
-# ·şÎñÆ÷¶Ë¿ÚÅäÖÃ
+### æœåŠ¡å™¨é…ç½®
 server:
   port: 8088
 
-# Êı¾İ¿âÁ¬½Ó
+### Springç›¸å…³é…ç½®
 spring:
+  ### æ•°æ®åº“
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/blog?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
-    driver-class-name: com.mysql.cj.jdbc.Driver # Èç¹ûÄãµÄMySQL°æ±¾±È½ÏÀÏ£¬ÇëÊ¹ÓÃ com.mysql.jdbc.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: ±¾µØMySQLµÄÃÜÂë
+    password: 123456
+  ### è§£é™¤å¯¹é™æ€æ–‡ä»¶çš„æ‹¦æˆª
+  web:
+    resources:
+      static-locations: classpath:/templates/,classpath:/static/
